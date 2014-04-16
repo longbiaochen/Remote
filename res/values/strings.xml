@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Remote</string>
+    <string name="hint">轻触以暂停/播放</string>
+
+</resources>
